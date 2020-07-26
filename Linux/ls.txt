@@ -1,0 +1,45 @@
+To list down all the files and folders of current location
+ls
+
+To list down all the files and folders of root folders
+ls /
+
+To list down all the files and folders of a folder at current location
+ls folderName/
+
+ls ~ 
+This command also gives the files and directories of home location of the computer
+
+ls ..
+Tis command is to print one step back files and directories
+
+ls ../..
+This command is to print files and folde of two step back.
+
+ls -l
+This will give you the files in long directory
+
+ls -a
+It will list all the hidden files and folders also
+
+ls -al
+This command has combined the options of hidden and long format will give hidden the files and format and also in long format
+
+
+This can also be used in hybrid ways. the following command will give all files and folders of home directory in long format
+ls -l ~
+
+to list down the files using some expressions. Suppose I want to just see the html files in some folder.
+ls Gcode/*.html
+
+This command is to list all the files and fiolders in long format and sorted way. Capital S is for sorted size.
+ls -lS
+
+This command is to export all the content of the ls command in a file. If file with name is not present, it will create one.
+ls -lS >out.txt
+
+This command is to list down only directories.
+ls -d */
+
+To clear terminal
+clear

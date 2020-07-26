@@ -1,0 +1,79 @@
+OOPS
+1Encapsulation
+2polymorphism
+3abstraction
+
+
+https://www.geeksforgeeks.org/association-composition-aggregation-java/
+Has A Relationship
+Assocation
+aggregation: Loosely coupled
+copmosition : tightly coppled
+
+
+https://www.geeksforgeeks.org/generalization-and-specialization-in-java/
+Generalization: Upcasting ()
+Specialization: downcasting
+
+
+https://www.geeksforgeeks.org/overloading-in-java/
+Overloading: same name, arguments can be different. Return type can same or different but it will not be considered as different method. 
+Suppose there is a method sum with argumenet int,int with return type int. If we create an another method sum with arguments int, int and return type as doble,
+it will give compile time error.
+
+https://www.geeksforgeeks.org/overriding-in-java/
+overriding
+
+
+1.https://www.geeksforgeeks.org/difference-between-abstract-class-and-interface-in-java/ 
+2.https://javaconceptoftheday.com/interface-vs-abstract-class-after-java-8/
+3.https://www.geeksforgeeks.org/static-method-in-interface-in-java/
+4.https://www.geeksforgeeks.org/default-methods-java/
+5.https://www.programcreek.com/2014/12/default-methods-in-java-8-and-multiple-inheritance/#:~:text=If%20both%20of%20the%20implemented,or%20define%20it's%20own%20one.
+Abstarct class and interface
+
+
+
+https://www.geeksforgeeks.org/exceptions-in-java/#:~:text=Customized%20Exception%20Handling%20%3A%20Java%20exception,throw%2C%20throws%2C%20and%20finally.&text=Any%20exception%20that%20is%20thrown,put%20in%20a%20finally%20block.
+http://www.kscodes.com/java/return-statement-in-try-catch-and-finally-block/
+https://www.geeksforgeeks.org/checked-vs-unchecked-exceptions-in-java/
+https://www.geeksforgeeks.org/throw-throws-java/
+https://www.geeksforgeeks.org/chained-exceptions-java/?ref=rp
+https://www.geeksforgeeks.org/errors-v-s-exceptions-in-java/?ref=rp
+https://www.geeksforgeeks.org/built-exceptions-java-examples/?ref=rp
+https://www.geeksforgeeks.org/using-throw-catch-and-instanceof-to-handle-exceptions-in-java/?ref=rp
+
+http://www.kscodes.com/java/return-statement-in-try-catch-and-finally-block/
+Exception
+
+
+
+
+
+
+Deep copy and Shallow copy
+https://dzone.com/articles/java-copy-shallow-vs-deep-in-which-you-will-swim
+
+
+
+
+Serialization and deserialization
+https://www.geeksforgeeks.org/serialization-in-java/
+https://www.javatpoint.com/serialization-in-java
+https://beginnersbook.com/2014/07/java-serialization/
+https://www.javacodegeeks.com/2013/03/serialization-in-java.html
+
+
+
+design Patterns
+https://www.geeksforgeeks.org/software-design-patterns/
+https://www.journaldev.com/1827/java-design-patterns-example-tutorial 
+
+
+
+Mysql
+https://www.w3resource.com/mysql-exercises/
+
+
+difference between volatile and synchronized
+https://j2eereference.com/difference-volatile-synchronized-keyword/
