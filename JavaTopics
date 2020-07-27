@@ -16,3 +16,6 @@ Memory and Garbage Collection
 Hibernate
 Git
 Junit
+
+hashcode
+equals
